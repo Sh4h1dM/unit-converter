@@ -34,11 +34,11 @@ def menu():
             else:
                  print("You have not selected a numerical value from 1 - 9.")
                  print("Please try again.\n")
+                 continue
         except:
              print("You have chosen an invalid option or reponded incorrectly")
              print("Please try again.\n")
              continue
-        return (category_1)
+    return (category_1)
 
 menu()
-
