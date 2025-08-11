@@ -7,5 +7,5 @@ Moving on, the first big fuction I have started to create is distance / length. 
 
 Retraced my steps back to the first function and changed code to enchance security and error handling. The if loops were incomplete and additionally pending debugging. 
 
-
+Some problems with function "distance_or_length_conversion_module", will seek to fix immediatly. Not being called properly / not displaying to console.
 
